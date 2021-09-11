@@ -1,4 +1,4 @@
-<h3 align="center">Hi I'm Kenny! 👋</h3>
+<h3 align="center">Hi there, I'm Kenny! 👋</h3>
 <p align="center">a computer systems engineering student with an interest in electromechanical systems! part time caffeine addict and full time rilakkuma enthusiast 🐻🙄</p>
 
 <!--

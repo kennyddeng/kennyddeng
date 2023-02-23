@@ -1,8 +1,10 @@
-<h3 align="center">Hi there, I'm Kenny! 👋</h3>
-<p align="center">a computer systems engineering student with an interest in embedded systems & automobiles! part time caffeine addict and wrench turner but full time rilakkuma enthusiast 🙄🐻</p>
-<p align="center">work in progress</p>
-<p align="center">most projects are in private repos lol</p>
-<p align="center">linkedin website resume</p>
+<h3 align="center"> Hi there, I'm Kenny! 👋 </h3>
+<p align="center"> a computer systems engineering student with an interest in embedded systems & automobiles! part time caffeine addict and wrench turner but full time rilakkuma enthusiast 🙄🐻 </p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/kenny-deng/"> <img src="images/LinkedIn_icon.svg" height="24" alt="LinkedIn">
+    <a href="https://kennydeng.com/"> <img src="images/ear.svg" height="24" alt="Website">
+</p>
 
 <!--
 **kennyddeng/kennyddeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

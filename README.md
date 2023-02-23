@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/kenny-deng/"> <img src="images/linkedin.svg" height="24" alt="LinkedIn">
     <a href="https://kennydeng.com/"> <img src="images/website.svg" height="24" alt="Website">
-    <a href="https://kennydeng.com/"> <img src="images/resume.svg" height="24" alt="Resume">
+    <a href="mailto:contact@kennydeng.com"> <img src="images/mail.svg" height="26" alt="Resume">
 </p>
 
 <!--

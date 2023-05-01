@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there, I'm Kenny! 👋 </h3>
-<p align="center"> a computer systems engineering student with an interest in embedded systems & automobiles! part time caffeine addict and wrench turner but full time rilakkuma enthusiast 🙄🐻 </p>
+<p align="center"> a computer systems engineering graduate with an interest in embedded systems & automobiles! part time caffeine addict and wrench turner but full time rilakkuma enthusiast 🙄🐻 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/kenny-deng/"> <img src="images/linkedin.svg" height="28" alt="LinkedIn">
